@@ -1,4 +1,4 @@
-# Synthetic Data Generation using GEN AI
+# Medical Synthetic Data Generator using RAG
 
 
 ## Prerequisites
